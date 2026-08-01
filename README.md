@@ -158,8 +158,8 @@ minus_channel = observables.pair_channels["minus"]
 
 Thus the same simulation can be used to study:
 
-- only the `plus` pair channel;
-- only the `minus` pair channel;
+- only the `plus` pair channel,
+- only the `minus` pair channel,
 - both channels and their relative behaviour.
 
 For example,
