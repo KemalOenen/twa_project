@@ -21,7 +21,7 @@ project_root/
     ├── parameters.py          # Central user inputs, unit conversion and derived couplings
     ├── sampling.py            # Initial-state sampling considering vacuum fluctuations and technical noise
     ├── eoms.py                # Single- and two-pump equations of motion
-    └── observables.py         # Populations, correlations and squeezing metrics```
+    └── observables.py         # Populations, correlations and squeezing metrics
 ```
 
 
