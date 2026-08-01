@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Truncated-Wigner Simulation
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - family-names: Önen
+    given-names: Kemal
+repository-code: https://github.com/KemalOenen/twa_project
+license: MIT
+version: 1.0.0
+date-released: 2026-08-02
