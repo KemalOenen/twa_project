@@ -64,7 +64,7 @@ Both propagate six complex amplitudes in the same fixed mode order. Modification
 
 ### `run_simulation.py`
 
-Selects the model, samples and integrates the trajectory ensemble, reports progress, and stores the results as a compressed `.npz` file. Besides `parameters.py`, this is the second place for user input. Here, the user chooses which model to run and may adjust output-related settings such as filenames or storage paths.
+Selects the model, samples and integrates the trajectory ensemble, and stores the results as a compressed `.npz` file. Besides `parameters.py`, this is the second place for user input. Here, the user chooses which model to run and may adjust output-related settings such as filenames or storage paths.
 
 ### `observables.py`
 
