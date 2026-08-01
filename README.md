@@ -3,7 +3,7 @@
 This project simulates cavity-mediated atom-pair creation using a six-mode truncated-Wigner approximation (TWA). It contains two related models:
 
 - a **single-pump model** based on the experiment introduced by Finger *et al.* in *Spin- and Momentum-Correlated Atom Pairs Mediated by Photon Exchange and Seeded by Vacuum Fluctuations*,
-- a **two-pump / two-colour extension** for pair transfer between the \(F=1\) and \(F=2\) hyperfine manifolds, developed in the Master's thesis of **Kemal Önen** at ETH Zurich in the Quantum Optics Group.
+- a **two-pump / two-colour extension** for pair transfer between the $F=1$ and $F=2$ hyperfine manifolds of Rb-87, developed in the Master's thesis of **Kemal Önen** at ETH Zurich in the Quantum Optics Group.
 
 The code samples stochastic Wigner initial states, propagates each realization with `scipy.integrate.solve_ivp`, stores the complete trajectory ensemble, and evaluates (Weyl-corrected) observables in a separate analysis notebook.
 
