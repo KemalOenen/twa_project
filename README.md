@@ -7,6 +7,8 @@ This project simulates cavity-mediated atom-pair creation using a six-mode trunc
 
 The code samples initial conditions from the Wigner distribution of the initial quantum state, propagates each realization with `scipy.integrate.solve_ivp`, stores the complete trajectory ensemble, and evaluates (Weyl-corrected) observables in a separate analysis notebook.
 
+Selected results are discussed in the research report included in this repository.
+
 ## Project structure
 
 ```text
